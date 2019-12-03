@@ -1,0 +1,2 @@
+# PttData
+get ptt data
