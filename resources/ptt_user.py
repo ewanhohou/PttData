@@ -15,7 +15,7 @@ class PttUser():
             return {
                 'errcode': 1,
                 'message': 'username not exist!'
-            }, 403
+            }
         return {
             'errcode': 0,
             'message':
