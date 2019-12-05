@@ -1,0 +1,8 @@
+Flask==1.1.1
+Flask-Caching==1.7.2
+flask-marshmallow==0.10.1
+Flask-RESTful==0.3.7
+marshmallow==3.2.2
+PTTLibrary==0.8.27
+python-dotenv==0.10.3
+
