@@ -12,11 +12,11 @@ get ptt user info and post
 
 ### get user info
 
-http://127.0.0.1:5000/user/{ptt id}
+http://127.0.0.1:5000/user/{ptt_id}
 
 ### get user 5 post within 7 days
 
-http://127.0.0.1:5000/post/{ptt id}
+http://127.0.0.1:5000/post/{ptt_id}
 
 ## Example
 
