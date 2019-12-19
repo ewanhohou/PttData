@@ -1,10 +1,16 @@
 # PttData
 
-get ptt user info and post
+Get ptt user's info and post
 
+change .env.example to .env and enter 
+```
+ptt_acc={ptt acount}
+ptt_pswd={ptt password}
+```
+then
 ```
  pip install -r requirements.txt
-
+    
  python app.py
 ```
 
